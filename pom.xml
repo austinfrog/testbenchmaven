@@ -497,10 +497,7 @@
             <version>1.4.0</version>
         </dependency>
      <dependency>
-    <groupId>org.spark-project.hive</groupId>
-    <artifactId>hive-exec</artifactId>
-    <version>1.2.1.spark2</version>
-    </dependency>
+
     </dependencies>
     <build>
                 <plugins>
